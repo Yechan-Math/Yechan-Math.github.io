@@ -9,7 +9,7 @@ version: 2
 name: Yechan Lee
 title: Mathematics Teacher
 email: yclee@sasa.hs.kr
-website: www.coslimites.com
+# website: www.coslimites.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -33,7 +33,7 @@ orcid_username: 0009-0008-2184-9675
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.coslimites.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_yclee.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yechan Lee and I am a teacher who is fascinated by the beauty of mathematics. My dream is to inspire students by sharing my passion for mathematics.
   
