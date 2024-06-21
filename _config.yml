@@ -48,9 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a teacher who is fascinated by the beauty of mathematics. My dream is to inspire students by sharing his passion for mathematics.
-  # Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hi, my name is Yechan Lee and I am a teacher who is fascinated by the beauty of mathematics. My dream is to inspire students by sharing my passion for mathematics.
+  
   I am most skilled in: <mark> NGD </mark> and <mark>Drinking Coffee</mark>
 
 content:
