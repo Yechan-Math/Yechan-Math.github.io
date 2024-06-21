@@ -9,7 +9,7 @@ version: 2
 name: Yechan Lee
 title: Mathematics Teacher
 email: yclee@sasa.hs.kr
-blog: www.coslimites.com
+# blog: www.coslimites.com
 # website: www.coslimites.com
 
 # Dark Mode (true/false/never)
@@ -51,7 +51,7 @@ about_profile_image: images/profile_yclee.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yechan Lee and I am a teacher who is fascinated by the beauty of mathematics. My dream is to inspire students by sharing my passion for mathematics.
   
-  I am most skilled in: <mark> NGD </mark> and <mark>Drinking Coffee</mark>
+  I am most skilled in: <mark>Drinking Coffee</mark>
 
 content:
   - title: Research Interest # Projects # Title for the section
