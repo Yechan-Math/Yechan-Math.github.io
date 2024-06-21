@@ -91,7 +91,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: HAHA University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         quote: >
@@ -105,11 +105,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics some of my other interests and hobbies are:
-      - Happy TeXing $\LaTeX$
+      - Happy TeXing # $\LaTeX$
       - Listening to Music
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+ #     Look at this cool image  
+ #     ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
