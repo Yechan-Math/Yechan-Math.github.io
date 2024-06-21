@@ -6,28 +6,28 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Yechan Lee
+title: Mathematics Teacher
+email: yclee@sasa.hs.kr
+website: www.coslimites.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+### twitter_username: facespics
+github_username:  Yechan-Math
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: cos_limites
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0009-0008-2184-9675
 
 # Additional icon links
 additional_links:
@@ -48,12 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am a teacher who is fascinated by the beauty of mathematics. My dream is to inspire students by sharing his passion for mathematics.
+  # Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark> NGD </mark> and <mark>Drinking Coffee</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Research Interest # Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
