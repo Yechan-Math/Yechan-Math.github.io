@@ -49,9 +49,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_yclee.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yechan Lee and I am a teacher who is fascinated by the beauty of mathematics. My dream is to inspire students by sharing my passion for mathematics.
+  Hi, my name is Yechan Lee, and I am a teacher captivated by the beauty of mathematics. My dream is to inspire students by sharing my passion for this wonderful discipline. I am also a Ph.D. student in mathematics education.
   
-  I am most skilled in: <mark>Drinking Coffee</mark>
+  I am most skilled in: <mark>Math Geekery</mark> and <mark>Drinking Coffee</mark>
 
 content:
   - title: Research Interest # Projects # Title for the section
@@ -100,6 +100,18 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: Publications / Preprints
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      quote: >
+          아직 출판한 논문이 없습니당.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+
 
   - title: A Little More About Me
     layout: text
