@@ -54,26 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Math Geekery</mark> and <mark>Drinking Coffee</mark>
 
 content:
-  - title: Research Interest # Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title: Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
+  - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -84,15 +65,14 @@ content:
         quote: >
           Currently teaching mathematics at Sejong Academy of Science and Arts since March 2017.
       - layout: left
-        title: Research Projects
+        title: Other Projects
         sub_title: Various Dates
         quote: >
           Participated in several research projects for developing selection tools for gifted education.
       - layout: left
-        title: Previous Experiences
+        title: Previous Experience
         sub_title: 
-        quote: |
-          **Previous Experiences:**
+        description: | # this will include new lines to allow paragraphs
           <ul>
             <li>Osong High School, Mathematics Teacher, March 2013 - February 2017</li>
             <li>Okchon Middle School, Mathematics Teacher, March 2011 - February 2013</li>
@@ -110,8 +90,7 @@ content:
       - layout: left
         title: Previous Education
         sub_title: 
-        quote: |
-          **Previous Education:**
+        description: | # this will include new lines to allow paragraphs
           <ul>
             <li>M.S. in Mathematics Gifted Education, Korea National University of Education, February 2020</li>
             <li>B.S. in Mathematics Education, Korea National University of Education, February 2011</li>
