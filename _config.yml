@@ -83,22 +83,10 @@ content:
         caption: March 2017 - Present
         quote: >
           Currently teaching mathematics at Sejong Academy of Science and Arts since March 2017. Participated in several research projects for developing selection tools for gifted education.
-
-      - layout: left
-        title: Osong High School
-        link: 
-        sub_title: Mathematics Teacher
-        caption: March 2013 - February 2017
-        quote: >
-          Taught mathematics at Osong High School from March 2013 to February 2017.
-
-      - layout: left
-        title: Okchon Middle School
-        link: 
-        sub_title: Mathematics Teacher
-        caption: March 2011 - February 2013
-        quote: >
-          Taught mathematics at Okchon Middle School from March 2011 to February 2013.
+      - layout: text
+        content: |
+          - Osong High School, Mathematics Teacher, March 2013 - February 2017
+          - Okchon Middle School, Mathematics Teacher, March 2011 - February 2013
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -109,20 +97,10 @@ content:
         sub_title: Ph.D. Mathematics Education
         quote: >
           Currently pursuing a Ph.D. in Mathematics Education at Korea National University of Education since March 2024.
-
-      - layout: left
-        title: Korea National University of Education
-        caption: February 2020
-        sub_title: MSc Mathematics Gifted Education
-        quote: >
-          Received my Master's degree in Mathematics Gifted Education from Korea National University of Education in February 2020.
-
-      - layout: left
-        title: Korea National University of Education
-        caption: February 2011
-        sub_title: BSc Mathematics Education
-        quote: >
-          Received my Bachelor's degree in Mathematics Education from Korea National University of Education in February 2011.
+      - layout: text
+        content: |
+          - MSc Mathematics Gifted Education, Korea National University of Education, February 2020
+          - BSc Mathematics Education, Korea National University of Education, February 2011
 
   - title: Publications / Preprints
     layout: text # Type of content section (list/text)
