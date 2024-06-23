@@ -17,7 +17,7 @@ darkmode: never
 
 # Social links
 ### twitter_username: facespics
-github_username: Yechan-Math
+# github_username: Yechan-Math
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -99,14 +99,13 @@ content:
   - title: Publications / Preprints
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      quote: >
         I have not published any papers yet.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics some of my other interests and hobbies are:
-      - Happy TeXing # $\LaTeX$
+      - Happy \(\TeX\)ing
       - Listening to Music
 
  # Look at this cool image  
