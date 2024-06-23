@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
+mathjax: true
 ---
 
 <script type="text/javascript" async
