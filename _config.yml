@@ -125,3 +125,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+# MathJax configuration
+mathjax: true
