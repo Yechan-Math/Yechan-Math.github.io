@@ -27,8 +27,6 @@ darkmode: never
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0009-0008-2184-9675
-
 # Additional icon links
 additional_links:
   - title: itsgoingto.be
@@ -37,7 +35,12 @@ additional_links:
   # - title: another link
   #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
   #   url: Link url (eg. https://google.com)
+
+
+orcid_username: 0009-0008-2184-9675
 instagram_username: cos_limites
+
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
