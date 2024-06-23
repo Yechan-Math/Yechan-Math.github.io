@@ -6,6 +6,16 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Home
-mathjax: true
 ---
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+Here is an inline math example: \( E = mc^2 \).
+
+Here is a display math example:
+\[ 
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2} 
+\]
+
