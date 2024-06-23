@@ -22,7 +22,6 @@ darkmode: never
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: cos_limites
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -38,6 +37,7 @@ additional_links:
   # - title: another link
   #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
   #   url: Link url (eg. https://google.com)
+instagram_username: cos_limites
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
