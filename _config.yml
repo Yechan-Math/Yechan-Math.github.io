@@ -82,9 +82,11 @@ content:
         sub_title: Mathematics Teacher
         caption: March 2017 - Present
         quote: >
-          Currently teaching mathematics at Sejong Academy of Science and Arts since March 2017. Participated in several research projects for developing selection tools for gifted education.
-      - layout: text
-        content: |
+          Currently teaching mathematics at Sejong Academy of Science and Arts since March 2017.
+
+      - layout: text # Previous Experiences
+        content: >
+          **Previous Experiences:**
           - Osong High School, Mathematics Teacher, March 2013 - February 2017
           - Okchon Middle School, Mathematics Teacher, March 2011 - February 2013
 
@@ -97,10 +99,23 @@ content:
         sub_title: Ph.D. Mathematics Education
         quote: >
           Currently pursuing a Ph.D. in Mathematics Education at Korea National University of Education since March 2024.
-      - layout: text
-        content: |
+
+      - layout: text # Previous Education
+        content: >
+          **Previous Education:**
           - MSc Mathematics Gifted Education, Korea National University of Education, February 2020
           - BSc Mathematics Education, Korea National University of Education, February 2011
+
+  - title: Research Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Development of Selection Tools for Gifted Education
+        link: 
+        sub_title: Research Participant
+        caption: Various Dates
+        quote: >
+          Participated in several research projects for developing selection tools for gifted education.
 
   - title: Publications / Preprints
     layout: text # Type of content section (list/text)
