@@ -90,11 +90,12 @@ content:
         quote: >
           Participated in several research projects for developing selection tools for gifted education.
 
-      - layout: text
-        content: |
-          **Previous Experiences:**
-          - Osong High School, Mathematics Teacher, March 2013 - February 2017
-          - Okchon Middle School, Mathematics Teacher, March 2011 - February 2013
+  - title: Previous Experiences
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      **Previous Experiences:**
+      - Osong High School, Mathematics Teacher, March 2013 - February 2017
+      - Okchon Middle School, Mathematics Teacher, March 2011 - February 2013
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,11 +107,12 @@ content:
         quote: >
           Currently pursuing a Ph.D. in Mathematics Education at Korea National University of Education since March 2024.
 
-      - layout: text
-        content: |
-          **Previous Education:**
-          - MSc Mathematics Gifted Education, Korea National University of Education, February 2020
-          - BSc Mathematics Education, Korea National University of Education, February 2011
+  - title: Previous Education
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      **Previous Education:**
+      - MSc Mathematics Gifted Education, Korea National University of Education, February 2020
+      - BSc Mathematics Education, Korea National University of Education, February 2011
 
   - title: Publications / Preprints
     layout: text # Type of content section (list/text)
