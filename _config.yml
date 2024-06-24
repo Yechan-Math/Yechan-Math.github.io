@@ -70,8 +70,8 @@ content:
       - layout: left
         title: Other Projects
         sub_title: Various Dates
-        quote: >
-          Participated in several research projects for developing selection tools for gifted education.
+        description: | # this will include new lines to allow paragraphs
+        I have participated in several research projects for developing assessment and selection tools for gifted education. I have also participated in projects translating books related to mathematics and mathematics education, and I have experience in developing textbooks. Additionally, I am currently involved in the Alice project.
       - layout: left
         title: Previous Experience
         sub_title: 
