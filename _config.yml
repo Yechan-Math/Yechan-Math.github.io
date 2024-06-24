@@ -127,3 +127,7 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-mathjax
+
+mathjax:
+  config: "TeX-MML-AM_CHTML"
