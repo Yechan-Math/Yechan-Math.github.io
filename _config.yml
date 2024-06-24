@@ -131,3 +131,6 @@ plugins:
 # MathJax configuration
 mathjax:
   path: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML'
+
+include: [head_custom.html]
+
