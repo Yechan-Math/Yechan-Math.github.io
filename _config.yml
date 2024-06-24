@@ -108,7 +108,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics some of my other interests and hobbies are:
-      - Happy \(\TeX\)ing
+      - Happy <!-- -->\( \TeX \)ing
       - Listening to Music
 
  # Look at this cool image  
