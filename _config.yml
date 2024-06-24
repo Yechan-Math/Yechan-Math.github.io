@@ -1,10 +1,15 @@
+<head>
+<script type="text/javascript" async 
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
+config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 markdown: kramdown
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+mathjax: true
 
 # Content configuration version
 version: 2
