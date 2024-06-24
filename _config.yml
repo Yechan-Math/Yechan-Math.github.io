@@ -9,7 +9,7 @@ mathjax: true
 version: 2
 
 # Personal info
-name: Yechan Lee (공사 중인 페이지 입니다.)
+name: Yechan Lee
 title: Mathematics Teacher
 email: yclee@sasa.hs.kr
 # blog: www.coslimites.com
@@ -111,7 +111,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics some of my other interests and hobbies are:
-      - Happy \(\TeX\)ing
+      - Happy TeXing
       - Listening to Music
 
  # Look at this cool image  
@@ -130,7 +130,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- - jekyll-mathjax
 
 mathjax:
   config: "TeX-MML-AM_CHTML"
