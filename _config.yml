@@ -32,7 +32,7 @@ darkmode: false
 # googleplus_username: +jekyll
 # Additional icon links
 additional_links:
-  - title: My Blog
+  - title: My Blog link
     icon: fas fa-globe
     url: https://www.coslimites.com
   # - title: another link
@@ -118,8 +118,8 @@ content:
       - Happy TeXing
       - Listening to Music
 
- # Look at this cool image  
- # ![Trees](/images/landscape-trees.jpg "Trees")
+ Look at this cool image  
+ ![kyysdrawing](/images/kyysdrawing.jpg "kyysdrawing")
 
 # Footer
 footer_show_references: true
