@@ -55,7 +55,7 @@ instagram_username: cos_limites
 # about_title: About Me
 about_profile_image: images/profile_yclee.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yechan Lee, and I am a teacher captivated by the beauty of mathematics. My dream is to inspire students by sharing my passion for this wonderful discipline. I am also a Ph.D. student in mathematics education.
+  Hi, my name is Yechan Lee, and I am a teacher captivated by the beauty of mathematics. My dream is to inspire students by sharing my passion for this wonderful discipline. I recently returned to graduate school to study mathematics education.
 
   I did not go to university immediately after graduating from high school. Instead, I worked various part-time jobs and completed my military service. It was during this time that I decided, somewhat on a whim, to pursue higher education, and at the age of 26, I 'accidentally' found myself in the Department of Mathematics Education. While studying calculus at university, I was fortunate to experience the beauty of mathematics, and throughout my university years, I enjoyed and cherished every moment of studying math.
 
@@ -95,14 +95,14 @@ content:
         title: Korea National University of Education
         caption: March 2024 - Present
         sub_title: Ph.D. student in Mathematics Education
-        quote: >
-          Currently pursuing a Ph.D. in Mathematics Education at Korea National University of Education since March 2024.
+        description: | # this will include new lines to allow paragraphs
+          Currently pursuing a Ph.D. in Mathematics Education at Korea National University of Education since March 2024. I am fortunate to be able to continue working while pursuing my graduate studies, thanks to the support of my loving family, the understanding of my workplace, and the guidance of my graduate advisor.
       - layout: left
         title: Previous Education
         sub_title: 
         description: | # this will include new lines to allow paragraphs
           <ul>
-            <li>M.S. in Mathematics Gifted Education, Korea National University of Education, February 2020</li>
+            <li>M.S. in Mathematics Gifted Education, Korea National University of Education, February 2020 (Advisor: Yun Jong Gug)</li>
             <li>B.S. in Mathematics Education, Korea National University of Education, February 2011</li>
           </ul>
 
