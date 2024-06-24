@@ -118,8 +118,8 @@ content:
       - Happy TeXing
       - Listening to Music
 
- Look at this cool image  
- ![kyysdrawing](/images/kyysdrawing.jpg "kyysdrawing")
+      Look at this cool image  
+      ![kyysdrawing](/images/kyysdrawing.jpg "kyysdrawing")
 
 # Footer
 footer_show_references: true
