@@ -29,7 +29,7 @@ darkmode: never
 # googleplus_username: +jekyll
 # Additional icon links
 additional_links:
-  - title: itsgoingto.be
+  - title: My Blog
     icon: fas fa-globe
     url: https://www.coslimites.com
   # - title: another link
@@ -66,7 +66,9 @@ content:
         sub_title: Mathematics Teacher
         caption: March 2017 - Present
         quote: >
-          Currently teaching mathematics at Sejong Academy of Science and Arts since March 2017.
+          I have been working as a mathematics teacher at Sejong Academy of Science and Arts (SASA) since March 2017. 
+        description: | # this will include new lines to allow paragraphs
+          SASA is the first school for gifted students in science and arts established in South Korea. I have enjoyed a rewarding time at SASA, interacting with diverse students and excellent colleagues. At SASA, I teach a variety of courses, including core mathematics subjects as well as additional subjects such as Calculus I (AP), Calculus II (AP), Linear Algebra (AP), Discrete Mathematics, and Integrated Mathematics.
       - layout: left
         title: Other Projects
         sub_title: Various Dates
