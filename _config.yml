@@ -115,7 +115,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics some of my other interests and hobbies are:
-      - Happy $\text{\TeX}$ing
+      - Happy $\text{\TeX}$ing $x^2+1=0$
       - Listening to Music
 
       Look at this cool image  
