@@ -2,8 +2,13 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+# markdown: kramdown
+# mathjax: true
 markdown: kramdown
-mathjax: true
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  syntax_highlighter: rouge
 
 # Content configuration version
 version: 2
