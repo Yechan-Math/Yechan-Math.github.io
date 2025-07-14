@@ -8,3 +8,4 @@
 layout: default
 mathjax: true
 ---
+{% include_relative assets/mathjax.html %}
