@@ -109,7 +109,7 @@ content:
   - title: Publications / Preprints
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-        I have not published any papers yet.
+        Hwang, J., **Lee, Y.**, Kim, S., Lee, J., & Lee, W. (2025). Effectiveness analysis of AI-based educational technology tools. *Journal of the Korean School Mathematics*, *28*(2), 143–162. https://doi.org/10.30807/ksms.2025.28.2.004
 
   - title: A Little More About Me
     layout: text
