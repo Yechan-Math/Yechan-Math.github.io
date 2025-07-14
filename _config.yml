@@ -8,7 +8,6 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
-  syntax_highlighter: rouge
 
 # Content configuration version
 version: 2
@@ -120,7 +119,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics some of my other interests and hobbies are:
-      - Happy $\text{\TeX}$ing $x^2+1=0$, \\(x^2+1=00\\).
+      - Happy TeXing
       - Listening to Music
 
       Look at this cool image  
