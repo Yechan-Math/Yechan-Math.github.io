@@ -5,9 +5,20 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: default
-mathjax: true
 ---
+layout: default
+---
+
+<!-- 수식을 포함한 본문 내용 -->
+Here is an inline math expression: \( x^2 + 1 = 0 \)
+
+And a block expression:
+
+$$
+\int_0^1 x^2 \, dx = \frac{1}{3}
+$$
+
+<!-- MathJax 설정 및 로드 -->
 <script>
   MathJax = {
     tex: {
